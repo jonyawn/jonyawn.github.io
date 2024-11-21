@@ -30,6 +30,15 @@ a:visited{
     text-align: center;
     font-size: 1.25em;
 }
+.AboutMe img{
+    float: right;
+    margin-left: 260px;
+    position: absolute;
+}
+.AboutMe p{
+    position: absolute;
+    padding-top: 2.5em;
+}
 
 .navbar *{background-color: #d3d3d3;
     color: #fff;
